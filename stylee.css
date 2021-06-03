@@ -1,0 +1,32 @@
+div{
+    background-size: cover; 
+    background-image: url(./imagens/backgorund.png);
+    background-repeat: no-repeat;
+    padding: 1px 20px;
+    /*box-sizing: border-box;*/
+    width: 400px;
+    height: 200px;
+    margin-top: 10%;
+    justify-content: center;
+
+}
+.instagram{
+    list-style-type: none;
+
+    list-style-image: url(./imagens/Insta.png);
+}
+.twitter{
+    list-style-type: none;
+    list-style-image: url(./imagens/Twitter.png);
+}
+.youtube{
+    list-style-type: none;
+    list-style-image: url(./imagens/Youtube.png);
+    
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
